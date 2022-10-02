@@ -8,15 +8,15 @@ Aaditya Rajput (100622434) <br>
 Aayush Parikh(100724827) 
 
 ## Objective:
-1. Get familiar with Docker images and containers.
-2. Learns various Kubernetes tools.
-3. Learn how to use Google Cloud Platform (GCP).
-4. Compose YAML files to deploy cloud applications. 
+1. Learn how to configure and run a request splitter using Nginx. 
+2. Be familiar with the ConfigMap tool in Kubernetes. 
+3. Learn how to use the curl command for requesting an HTTP method. 
+4. Learn how to configure load balancer services  
+5. Get Familiar with load balancing pattern 
+
 
 ## Final Submission:
 [Lab 1: Introduction to Google Kubernetes Engine Report (Group)](https://github.com/matheeshan-sivalingam/SOFE-4790U-Lab-One/blob/main/Final/Lab%201_%20Introduction%20to%20Google%20Kubernetes%20Engine%20(Group%20Report).pdf)<br>
-[Mysql Demonstration](https://www.youtube.com/watch?v=-KuWT8PKYDc)<br>
-[MongoDB demonstration](https://www.youtube.com/watch?v=W8QEgeNPCX0)
 
 ## Individual Submissions:
 
