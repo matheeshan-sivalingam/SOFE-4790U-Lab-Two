@@ -23,9 +23,9 @@ Aayush Parikh(100724827)
 ## Individual Submissions:
 
 ### Aaditya
-[Aaditya Rajput-Lab 2 report](https://github.com/matheeshan-sivalingam/SOFE-4790U-Lab-Two/blob/main/Aaditya/Aaditya%20Rajput-Lab%202%20report.pdf)
-[Lab 2 part 2](https://www.youtube.com/watch?v=raCLKmiVyGE)
-[Lab 2 part 3](https://www.youtube.com/watch?v=zici6EpZjzU)
+[Aaditya Rajput-Lab 2 report](https://github.com/matheeshan-sivalingam/SOFE-4790U-Lab-Two/blob/main/Aaditya/Aaditya%20Rajput-Lab%202%20report.pdf)<br>
+[Lab 2 part 2](https://www.youtube.com/watch?v=raCLKmiVyGE)<br>
+[Lab 2 part 3](https://www.youtube.com/watch?v=zici6EpZjzU)<br>
 [Autoscaler](https://www.youtube.com/watch?v=07fB5c8rhd4&feature=youtu.be)
 
 ### Aayush
