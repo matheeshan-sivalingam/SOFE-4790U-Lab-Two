@@ -15,18 +15,24 @@ Aayush Parikh(100724827)
 5. Get Familiar with load balancing pattern 
 
 ## Final Submission:
-[Distributed Systems Lab 2 (Group)](https://docs.google.com/document/d/1aoa08riL0YpF1dDGhYEXddOD_ZBsz7GnYUKZBMZhhGY/edit?usp=sharing)<br>
+[Distributed Systems Lab 2 (Group)](https://docs.google.com/document/d/1aoa08riL0YpF1dDGhYEXddOD_ZBsz7GnYUKZBMZhhGY/edit?usp=sharing) <br>
+[Final Submission - Part 2 Step 6](https://drive.google.com/file/d/1lduQrh26PFSXFWIZVqYdB0R6HgfZDP9D/view?usp=sharing)<br>
+[Final Submission - Part 3 Step 3](https://drive.google.com/file/d/1QwKacYjBGNjik0Wl6RsJGPb5wft1Bb_v/view?usp=sharing)<br>
+[Final Submission - Autoscaler](https://www.youtube.com/watch?v=07fB5c8rhd4&feature=youtu.be)
 
 ## Individual Submissions:
 
 ### Aaditya
-
+[Aaditya Rajput-Lab 2 report](https://github.com/matheeshan-sivalingam/SOFE-4790U-Lab-Two/blob/main/Aaditya/Aaditya%20Rajput-Lab%202%20report.pdf)
+[Lab 2 part 2](https://www.youtube.com/watch?v=raCLKmiVyGE)
+[Lab 2 part 3](https://www.youtube.com/watch?v=zici6EpZjzU)
+[Autoscaler](https://www.youtube.com/watch?v=07fB5c8rhd4&feature=youtu.be)
 
 ### Aayush
 [Distributed Systems Lab 2 - 100724827](https://github.com/matheeshan-sivalingam/SOFE-4790U-Lab-Two/blob/main/Aayush%20-%20Lab%202/Lab%202%20report.docx)<br>
 [Lab 2 - Part 2](https://youtu.be/xkiXlGSdD2U)<br>
 [Lab 2 - Part 3](https://youtu.be/CAXP6KqCH3M)<br>
-[Lab 2 - Autoscaling](https://youtube.com/shorts/sq4nHRY26Qs)
+[Autoscaler](https://youtube.com/shorts/sq4nHRY26Qs)
 
 
 ### Hemshikha 
