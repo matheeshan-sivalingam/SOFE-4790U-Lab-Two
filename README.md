@@ -1,4 +1,4 @@
-# SOFE-4790U-Lab-Two
+# SOFE4790U: Lab-Two
 ## Lab Two: Deploying a request splitting ambassador and a load balancer with Kubernetes (GKE)<br>
 #### Group number: 9
 #### Group members: 
