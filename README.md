@@ -1,5 +1,5 @@
 # SOFE4790U: Lab Two
-## Lab Two: Deploying a request splitting ambassador and a load balancer with Kubernetes (GKE)<br>
+## Lab Two: Deploying a request splitting ambassador and a load balancer with Kubernetes<br>
 #### Group number: 9
 #### Group members: 
 Matheeshan Sivalingam (100703887)<br>
