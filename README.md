@@ -29,7 +29,7 @@ Aayush Parikh(100724827)
 
 
 ### Matheeshan 
-[Lab 2: Deploying a request splitting ambassador and a load balancer with Kubernetes Report]()<br>
+[Lab 2: Deploying a request splitting ambassador and a load balancer with Kubernetes Report](https://github.com/matheeshan-sivalingam/SOFE-4790U-Lab-Two/blob/main/Matheeshan/Lab%202_%20Deploying%20a%20request%20splitting%20ambassador%20and%20a%20load%20balancer%20with%20Kubernetes.pdf)<br>
 [SOFE4790U Lab 2 - Deploying a request splitting ambassador and a load balancer with Kubernetes Part One](https://youtu.be/4UeaUb6t89c)<br>
 [SOFE4790U Lab 2 - Deploying a request splitting ambassador and a load balancer with Kubernetes Part Two](https://youtu.be/31fYNdmSWVM)
 
