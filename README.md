@@ -23,6 +23,10 @@ Aayush Parikh(100724827)
 
 
 ### Aayush
+[Distributed Systems Lab 2 - 100724827] (https://github.com/matheeshan-sivalingam/SOFE-4790U-Lab-Two/blob/main/Aayush%20-%20Lab%202/Lab%202%20report.docx)
+[Lab 2 - Part 2] (https://youtu.be/xkiXlGSdD2U)
+[Lab 2 - Part 3] (https://youtu.be/CAXP6KqCH3M)
+[Lab 2 - Autoscaling] (https://youtube.com/shorts/sq4nHRY26Qs)
 
 
 ### Hemshikha 
